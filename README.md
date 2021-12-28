@@ -1,4 +1,4 @@
-### Olá amigo! Me chamo Rafael Feller ✌️!
+### Fala Dev...! Me chamo Rafael Feller ✌️!
 - Atualmente estudando Desenvolvimento Web (Full Stack) no DevInHouse - SENAI/SC
 <!--
 **rafafeller/rafafeller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
